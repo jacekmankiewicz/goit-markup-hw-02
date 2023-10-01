@@ -37,7 +37,7 @@
 }
 
 .link:focus {
-    color: var(--#404BBF);
+    background-color: #404BBF;
 }
 .link:visited {
     background-color: #404BBF;
@@ -124,4 +124,10 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: (var--#2e2f42);
+}
+.tag-fourth {
+
+}
+.section-fourth {
+    background-color: #F4F4FD
 }
