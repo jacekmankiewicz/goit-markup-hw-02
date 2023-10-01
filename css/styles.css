@@ -1,7 +1,84 @@
-body {
-    font-family: 'Roboto', sans-serif;
-    color: orangered
+ :root {
+   --primary-brand-color: #4D5AE5;
+   --pressed-state-color: #404BBF;
+   --dark-color: #2E2F42;
+   --success-color: #31D0AA;
+   --text-color: #434455;
+   --subtle-text-color: #8E8F99;
+   --accent-color: #E7E9FC;
+   --light-color: #F4F4FD;
+   --modal-overlay-color: #2E2F42;
+   --hero-background-color: #2E2F42;
+   --white-background-color: #FFFFFF;
+   --modal-background-color: #FCFCFC;
+ }
+ body {
+     font-family: 'Roboto', sans-serif;
+     color: var(--text-color);
+     background-color: var(--modal-background-color)
+ }
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--brand-color);
+    text-decoration: none;
+}
+.link {
+    text-decoration: none;
+    color: var(--#4D5AE5);
+}
+
+.link:hover {
+    color: var(--#4D5AE5);
+}
+
+.link:focus {
+    color: var(--#404BBF);
+}
+
+.logo-studio {
+    color: var(--#4D5AE5);
+}
+.list{
+    list-style: none;
+}
+.span {
+    color: #2e2f42;
+}
+.nav-link {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.nav-link:hover {
+    color:#404bbf;
+}
+.address {
+    font-style: normal;
+}
+.mail {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.mail:hover {
+    color: #404bbf;
+}
+.mail:visited {
+    color: #404bbf;
 }
 .button {
     cursor: pointer;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    background-color: #F4F4FD;
 }
