@@ -90,7 +90,7 @@
 .button:active {
     background-color: #404BBF;
 }
-.topic {
+.tag {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
