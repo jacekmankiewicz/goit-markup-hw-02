@@ -100,6 +100,21 @@
 .section-first {
     background-color: #2e2f42;
 }
+.section-second {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color (var--#2e2f42);
+}
+.section-third {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color (var--#2e2f42);
+}
 .footer {
     background-color: #2e2f42;
 }
@@ -131,8 +146,7 @@
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: (var(--#2e2f42))
-
+    color: (var--#2e2f42)
 }
 .section-fourth {
     background-color: #F4F4FD
