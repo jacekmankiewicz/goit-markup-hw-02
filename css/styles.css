@@ -81,6 +81,12 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #4d5ae5;
-    background-color: #F4F4FD;
+    color: #ffffff;
+    background-color: #4D5AE5;
+}
+.button:hover {
+    background-color: #404BBF
+}
+.button:active {
+    background-color: #404BBF
 }
