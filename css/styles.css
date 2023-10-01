@@ -29,7 +29,7 @@
 }
 .link {
     text-decoration: none;
-    color: var(--#4D5AE5);
+    color: #404bbf;
 }
 
 .link:hover {
@@ -97,9 +97,16 @@
     letter-spacing: 0.02em;
     color: #ffffff;
 }
-.section {
+.section-first {
     background-color: #2e2f42;
 }
 .footer {
     background-color: #2e2f42;
+}
+.tag-first {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
 }
