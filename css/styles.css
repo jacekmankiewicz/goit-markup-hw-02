@@ -23,7 +23,7 @@
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--#4d5ae5);
+    color: #4d5ae5;
     text-decoration: none;#FFFFFF
 }
 .link {
@@ -46,7 +46,7 @@
     list-style: none;
 }
 .span {
-    color: #f4f4fd;
+    color: #2e2f42;
 }
 .nav-link {
     font-weight: 500;
