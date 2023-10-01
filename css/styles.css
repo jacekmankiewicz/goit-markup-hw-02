@@ -97,23 +97,26 @@
     letter-spacing: 0.02em;
     color: #ffffff;
 }
-.section-first {
+.section-one {
     background-color: #2e2f42;
 }
-.section-second {
+.section-two {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color (var--#2e2f42);
 }
-.section-third {
+.section-three {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color (var--#2e2f42);
+}
+.section-four {
+    background-color: #F4F4FD
 }
 .footer {
     background-color: #2e2f42;
@@ -147,7 +150,4 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: (var--#2e2f42)
-}
-.section-fourth {
-    background-color: #F4F4FD
 }
