@@ -45,6 +45,9 @@
 .logo-studio {
     color: #2e2f42;
 }
+.logo-studio-footer {
+    color: #f4f4fd;
+}
 .list{
     list-style: none;
 }
@@ -119,7 +122,7 @@
     color: (var--#2e2f42);
 }
 .section-four {
-    background-color: #F4F4FD
+    background-color: #F4F4FD;
 }
 .footer {
     background-color: #2e2f42;
@@ -152,5 +155,17 @@
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: (var--#2e2f42)
+    color: (var--#2e2f42);
+}
+.heading {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: (var--#2e2f42);
+}
+.paragraph {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: (var--#434455);
 }
