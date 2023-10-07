@@ -27,6 +27,9 @@
     color: (var--#4d5ae5);
     text-decoration: none;
 }
+.logo::before {
+    color: var(--#4d5ae5);
+}
 .link {
     text-decoration: none;
     color: #404bbf;
