@@ -117,7 +117,7 @@
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: (var--#2e2f42);
+    color: var(--dark-blue-color);
 }
 .section-three {
     font-size: 36px;
@@ -125,7 +125,7 @@
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: (var--#2e2f42);
+    color: var(--dark-blue-color)
 }
 .section-four {
     background-color: #F4F4FD;
@@ -145,7 +145,7 @@
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: (var--#2e2f42);
+    color: var(--dark-blue-color);
 }
 .section-three-text {
     font-size: 36px;
@@ -153,7 +153,7 @@
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: (var--#2e2f42);
+    color: var(--dark-blue-color);
 }
 .section-four-text {
     font-size: 36px;
@@ -161,45 +161,45 @@
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: (var--#2e2f42);
+    color: var(--dark-blue-color);
 }
 .section-two-header {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: var(--#2e2f42);
+    color: var(--dark-blue-color);
 }
 .section-four-header {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: var(--#2e2f42)
+    color: var(--dark-blue-color);
 }
 .section-two-paragraph {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--#434455);
+    color: var(--text-color);
 }
 .section-four-paragraph {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--#434455);
+    color: var(--text-color);
 }
 .heading {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: (var--#2e2f42);
+    color: var(--dark-blue-color)
 }
 .paragraph {
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: (var--#434455);
+    color: var(--text-color);
 }
 .logo-link-footer {
     line-height: 1.5;
