@@ -26,10 +26,10 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
-    color: var(--#4d5ae5);
+    color: var(--logo-color);
 }
 .logo::before {
-    color: var(--#4d5ae5);
+    color: var(--logo-color);
 }
 .link {
     text-decoration: none;
