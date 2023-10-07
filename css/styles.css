@@ -38,7 +38,7 @@
 }
 
 .link:hover {
-    color: var(--#4D5AE5);
+    color: var(--primary-brand-color);
 }
 
 .link:focus {
@@ -209,7 +209,7 @@
 .logo-footer {
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--logo-color);
+    color: var(--light-color);
 }
 .section-four-color {
     background-color: #FFFFFF
