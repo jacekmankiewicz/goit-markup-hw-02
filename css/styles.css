@@ -198,3 +198,8 @@
     letter-spacing: 0.02em;
     color: (var--#434455);
 }
+.logo-link-footer {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
