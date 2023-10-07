@@ -95,7 +95,7 @@
     background-color: #404BBF;
 }
 .button:focus {
-    color: #404bbf;
+    background-color: #404BBF;
 }
 .button:active {
     background-color: #404BBF;
