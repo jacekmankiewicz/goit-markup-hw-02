@@ -34,7 +34,7 @@
 }
 .link {
     text-decoration: none;
-    color: var(--dark-blue-color);
+    color: var(--logo-color);
 }
 
 .link:hover {
