@@ -118,6 +118,7 @@
 }
 
 .button-main-section:focus {
+    color: #FFFFFF;
     background-color: #404BBF;
 }
 
