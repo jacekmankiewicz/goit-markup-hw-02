@@ -25,7 +25,7 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
-    color: var(--#4d5ae5);
+    color: #4d5ae5;
 }
 .logo::before {
     color: var(--#4d5ae5);
