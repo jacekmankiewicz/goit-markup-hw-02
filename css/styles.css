@@ -34,7 +34,7 @@
 }
 .link {
     text-decoration: none;
-    color: var(--text-color);
+    color: var(--logo-color);
 }
 
 .link:hover {
@@ -209,7 +209,7 @@
 .logo-footer {
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #F4F4FD;
+    color: var(--logo-color);
 }
 .section-four-color {
     background-color: #FFFFFF
