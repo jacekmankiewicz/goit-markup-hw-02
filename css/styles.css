@@ -41,6 +41,7 @@
 
 .link:focus {
     background-color: #404BBF;
+    color: #404bbf;
 }
 .link:visited {
     background-color: #404BBF;
