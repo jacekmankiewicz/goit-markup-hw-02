@@ -12,6 +12,7 @@
    --white-background-color: #FFFFFF;
    --modal-background-color: #FCFCFC;
    --logo-color: #4d5ae5;
+   --dark-blue-color: #2e2f42;
  }
  body {
      font-family: 'Roboto', sans-serif;
@@ -33,7 +34,7 @@
 }
 .link {
     text-decoration: none;
-    color: #404bbf;
+    color: var(--text-color);
 }
 
 .link:hover {
@@ -209,4 +210,7 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #F4F4FD;
+}
+.section-four-color {
+    background-color: #FFFFFF
 }
