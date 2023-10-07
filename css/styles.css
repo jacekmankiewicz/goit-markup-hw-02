@@ -113,15 +113,16 @@
         background-color: var(--light-color);
 }
 .button-main-section:hover {
+    color: #FFFFFF;
     background-color: #FFFFFF;
 }
 
 .button-main-section:focus {
-    background-color: #FFFFFF;
+    background-color: #404BBF;
 }
 
 .button-main-section:active {
-    background-color: #FFFFFF;
+    background-color: #404BBF;
 }
 .tag {
     font-size: 56px;
