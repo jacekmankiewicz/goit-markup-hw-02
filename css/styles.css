@@ -114,11 +114,11 @@
 }
 .button-main-section:hover {
     color: #FFFFFF;
-    background-color: #FFFFFF;
+    background-color: #404BBF;
 }
 
 .button-main-section:focus {
-    background-color: #FFFFFF;
+    background-color: #404BBF;
 }
 
 .button-main-section:active {
