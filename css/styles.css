@@ -34,19 +34,6 @@
 }
 .link {
     text-decoration: none;
-    color: var(--logo-color);
-}
-
-.link:hover {
-    color: var(--primary-brand-color);
-}
-
-.link:focus {
-    background-color: #404BBF;
-    color: #404bbf;
-}
-.link:visited {
-    background-color: #404BBF;
 }
 .logo-studio {
     color: var(--dark-blue-color);
