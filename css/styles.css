@@ -51,7 +51,7 @@
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--dark-blue-color);
+    color: var(--text-color);
 }
 .nav-link:hover {
     color:#404bbf;
@@ -61,6 +61,12 @@
 }
 .address {
     font-style: normal;
+}
+.address-link {
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--dark-blue-color);
 }
 .mail {
     line-height: 1.5;
