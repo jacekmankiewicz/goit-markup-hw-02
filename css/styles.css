@@ -57,7 +57,8 @@
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--dark-blue-color, --text-color);
+    color: var(--dark-blue-color);
+    color: var(--text-color);
 }
 .nav-link:hover {
     color:#404bbf;
