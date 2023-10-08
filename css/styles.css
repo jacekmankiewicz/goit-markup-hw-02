@@ -35,6 +35,14 @@
 .link {
     text-decoration: none;
 }
+.link:hover {
+    color: var(--primary-brand-color);
+}
+
+.link:focus {
+    background-color: #404BBF;
+    color: #404bbf;
+}
 .logo-studio {
     color: var(--dark-blue-color);
 }
