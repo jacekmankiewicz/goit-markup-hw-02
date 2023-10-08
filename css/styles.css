@@ -34,7 +34,7 @@
 }
 .link {
     text-decoration: none;
-    color: var(--dark-blue-color)
+    color: var(--dark-blue-color, --text-color);
 }
 .link:hover {
     text-decoration: none;
