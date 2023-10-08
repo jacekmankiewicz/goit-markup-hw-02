@@ -35,12 +35,6 @@
 .link {
     text-decoration: none;
 }
-.link:hover {
-    text-decoration: none;
-}
-.link:focus {
-    color: #404bbf;
-}
 .logo-studio {
     color: var(--dark-blue-color);
 }
@@ -61,6 +55,9 @@
 }
 .nav-link:hover {
     color:#404bbf;
+}
+.nav-link:focus {
+    color: #404bbf;
 }
 .address {
     font-style: normal;
