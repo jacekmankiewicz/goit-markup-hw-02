@@ -34,12 +34,10 @@
 }
 .link {
     text-decoration: none;
-    color: var(--dark-blue-color);
 }
 .link:hover {
-    color: var(--primary-brand-color);
+    text-decoration: none;
 }
-
 .link:focus {
     background-color: #404BBF;
     color: #404bbf;
