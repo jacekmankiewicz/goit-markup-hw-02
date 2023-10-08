@@ -230,3 +230,6 @@
 .section-four-color {
     background-color: #FFFFFF
 }
+.random-class {
+    color: var(--text-color);
+}
