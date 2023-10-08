@@ -40,7 +40,6 @@
     text-decoration: none;
 }
 .link:focus {
-    background-color: #404BBF;
     color: #404bbf;
 }
 .logo-studio {
