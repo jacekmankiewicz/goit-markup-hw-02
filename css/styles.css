@@ -68,6 +68,13 @@
     letter-spacing: 0.02em;
     color: var(--text-color);
 }
+.address-link:hover {
+    color: #404bbf;
+}
+
+.address-link:focus {
+    color: #404bbf;
+}
 .mail {
     line-height: 1.5;
     letter-spacing: 0.02em;
