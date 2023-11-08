@@ -466,6 +466,7 @@
     color: #404bbf;
     position: relative;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
 }
 .list-portfolio-main-section {
     padding: 32px 16px;
@@ -618,6 +619,7 @@
     height: 4px;
     background-color: #404bbf;
     border-radius: 2px;
+    
 }
 .button-modal-svg {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
