@@ -564,6 +564,8 @@
 }
 .index-link {
     color: #404bbf;
+    position: relative;
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .index-link::after {
     content: '';
@@ -573,5 +575,5 @@
     height: 4px;
     background-color: #404bbf;
     border-radius: 2px;
-    
+
 }
