@@ -593,10 +593,12 @@
 .close-btn:hover {
     background-color: #404bbf;
     border: none;
+    fill: #ffffff;
 }
 .close-btn:focus {
     background-color: #404bbf;
     border: none;
+    fill: #ffffff;
 }
 .index-link {
     color: #404bbf;
