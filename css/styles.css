@@ -536,7 +536,7 @@
 .footer-svg {
     fill: var(--light-color);
 }
-.modal {
+.modal-box {
     position: fixed;
     top: 0;
     left: 0;
